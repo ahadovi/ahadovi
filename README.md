@@ -39,7 +39,7 @@ I'm Abdul Ahad Ovi, a Frontend Web Application Developer from <img src="assets/b
 
 #### GitHub Stats
 
-![ovi's github stats](https://github-readme-stats.vercel.app/api?username=ahadovi&count_private=false&theme=tokyonight&hide=stars)
+![ovi's github stats](https://github-readme-stats.vercel.app/api?username=ahadovi&count_private=true&theme=tokyonight&hide=stars)
 
 #### Business
 
