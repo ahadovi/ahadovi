@@ -25,14 +25,29 @@ I'm Abdul Ahad Ovi, a Frontend Web Application Developer from <img src="assets/b
     <tr border: none;>
       <td><b>Projects</b></td>
       <td><b>Description</b></td>
-      <td><b>Responses</b></td>
+      <td><b>Uses Language</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://learnwithsumit.com" target="_blank">project work</a></td>
-      <td>Programming related Learning Platform for Bangladesh</td>
-      <td>100K+ active learners</td>
+      <td><a href="https://leboudoir.bar/" target="_blank">Le Boudir</a></td>
+      <td>Salon service Provider</td>
+      <td>HTML5, SASS, NUXT JS</td>
+    </tr>
+    <tr>
+      <td><a href="https://thejuiceconsultant.com/" target="_blank">The Juice Consultant</a></td>
+      <td>Food related service blog </td>
+      <td>HTML5, CSS, SASS, Styled Component, React JS, Next JS, Framer motion</td>
+    </tr>
+    <tr>
+      <td><a href="https://gifbuz.com/" target="_blank">GIFBUZ</a></td>
+      <td>Gif sharing platform, where user can create, upload & share gif </td>
+      <td>HTML5, CSS, SASS, Bootstrap, React JS, Framer motion, axios, Node JS</td>
+    </tr>
+    <tr>
+      <td><a href="https://ali2bd.com/" target="_blank">Ali2bd</a></td>
+      <td>Ecommerce releted service </td>
+      <td>HTML5, CSS, SASS, Bootstrap, React JS, Next JS, axios, Node JS</td>
     </tr>
   </tbody>
 </table>
@@ -52,6 +67,14 @@ I'm Abdul Ahad Ovi, a Frontend Web Application Developer from <img src="assets/b
 
 <br/>
 
-I'm Abdul Ahad Ovi, a Frontend Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I Spend most time coding outstanding projects.
+Passionate and proactive developer with 3+ years of experience, who loves to write clean, maintainable code. I am always eager to learn from every single incident for getting the best of me.
+
+#### Personal Info
+
+Phone: +88-01738-068145 
+Skype: ahadovi2 
+Date of birth: 05-01-1993 
+Marital Status: Married  
+Blood Group: B+ 
 
 </details>
