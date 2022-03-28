@@ -58,7 +58,7 @@ I'm Abdul Ahad Ovi, a Frontend Web Application Developer from <img src="assets/b
 
 #### Business
 
-:email: &emsp;ab.ahadovi.dev@gmail.com
+:email:&emsp;ab.ahadovi.dev@gmail.com
 
 <details>
 <summary>
@@ -71,10 +71,10 @@ Passionate and proactive developer with 3+ years of experience, who loves to wri
 
 #### Personal Info
 
-Phone: +88-01738-068145 
-Skype: ahadovi2 
-Date of birth: 05-01-1993 
-Marital Status: Married  
+:telephone: +88-01738-068145 <br/> 
+Skype: ahadovi2 <br/> 
+Date of birth: 05-01-1993 <br/> 
+Marital Status: Married <br/> 
 Blood Group: B+ 
 
 </details>
